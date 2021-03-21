@@ -8,4 +8,4 @@ Data sources:
 1. https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
 2. https://data.wprdc.org/dataset/allegheny-county-obesity-rates
 
-# Note: It takes a long time for the map to load layers after selecting a checkbox.
+### Note: It takes a long time for the map to load layers after selecting a checkbox.
